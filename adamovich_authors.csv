@@ -1,0 +1,151 @@
+doc_id;lemma;writer;time
+doc1;Бабель;Леонов;soviet writer
+doc1;Булгаков;Леонов;soviet writer
+doc1;Воронский;Леонов;soviet writer
+doc1;Иванов;Леонов;soviet writer
+doc1;Достоевский;Леонов;else
+doc1;Коган;Леонов;else
+doc1;Лесков;Леонов;else
+doc1;Луначарский;Леонов;else
+doc1;Федин;Леонов;soviet writer
+doc12;Гладков;Ряховский;soviet writer
+doc12;Серафимович;Ряховский;soviet writer
+doc13;Гумилев;Вагинов;else
+doc13;Сологуб;Вагинов;else
+doc14;Лидин;Савич;soviet writer
+doc14;Сейфуллина;Савич;soviet writer
+doc14;Л. Толстой;Савич;else
+doc15;Бодлер;Пастернак;else
+doc15;Малларме;Пастернак;else
+doc15;Савич;Пастернак;soviet writer
+doc15;Сологуб;Пастернак;else
+doc15;Тихонов;Пастернак;soviet writer
+doc16;Авербах;Эрлих;else
+doc16;Ленин;Эрлих;else
+doc16;Маркс;Эрлих;else
+doc16;Блок;Эрлих;else
+doc16;Пушкин;Эрлих;else
+doc18;Гоголь;Мариенгоф;else
+doc18;Олеша;Мариенгоф;soviet writer
+doc18;Уайльд;Мариенгоф;else
+doc18;Триоле;Мариенгоф;else
+doc19;Шекспир;Толстой;else
+doc2;Леонов;Федин;soviet writer
+doc2;Л. Толстой;Федин;else
+doc2;Достоевский;Федин;else
+doc20;Аверченко;Катаев;else
+doc20;Белинский;Катаев;else
+doc20;Бунин;Катаев;else
+doc20;Зощенко;Катаев;soviet writer
+doc20;Машбиц-Веров;Катаев;else
+doc20;Ремарк;Катаев;else
+doc20;Л. Толстой;Катаев;else
+doc21;Анненский;Кузмин;else
+doc21;Боккаччио;Кузмин;else
+doc21;Брюсов;Кузмин;else
+doc21;Уайльд;Кузмин;else
+doc21;Блок;Кузмин;else
+doc23;Бабель;Пильняк;soviet writer
+doc23;Булгаков;Пильняк;soviet writer
+doc23;Гладков;Пильняк;soviet writer
+doc23;Есенин;Пильняк;soviet writer
+doc23;Зощенко;Пильняк;soviet writer
+doc23;Ленин;Пильняк;else
+doc23;Леонов;Пильняк;soviet writer
+doc23;Олеша;Пильняк;soviet writer
+doc23;Троцкий;Пильняк;else
+doc23;Федин;Пильняк;soviet writer
+doc24;Пильняк;Фибих;soviet writer
+doc25;Бабель;Леонов;soviet writer
+doc25;Олеша;Леонов;soviet writer
+doc25;Достоевский;Леонов;else
+doc25;Пушкин;Леонов;else
+doc25;Л. Толстой;Леонов;else
+doc26;Гельфанд;Панферов;else
+doc26;Гладков;Панферов;soviet writer
+doc26;Гомер;Панферов;else
+doc26;Достоевский;Панферов;else
+doc26;Ленин;Панферов;else
+doc26;Либединский;Панферов;soviet writer
+doc26;Л. Толстой;Панферов;else
+doc26;Леонов;Панферов;soviet writer
+doc27;Бабель;Фадеев;soviet writer
+doc27;Зощенко;Фадеев;soviet writer
+doc27;Катаев;Фадеев;soviet writer
+doc27;Ленин;Фадеев;else
+doc27;Леонов;Фадеев;soviet writer
+doc27;Либединский;Фадеев;soviet writer
+doc27;Маркс;Фадеев;else
+doc27;Олеша;Фадеев;soviet writer
+doc27;Пильняк;Фадеев;soviet writer
+doc27;Л. Толстой;Фадеев;else
+doc27;Федин;Фадеев;soviet writer
+doc27;Энгельс;Фадеев;else
+doc27;Иванов;Фадеев;soviet writer
+doc28;Бабель;Олеша;soviet writer
+doc28;Гладков;Олеша;soviet writer
+doc28;Леонов;Олеша;soviet writer
+doc28;Манн;Олеша;else
+doc28;Панферов;Олеша;soviet writer
+doc28;Федин;Олеша;soviet writer
+doc29;Авербах;Рыкачев;else
+doc3;Бальзак;Толстой;else
+doc3;Л. Толстой;Толстой;else
+doc3;Флобер;Толстой;else
+doc30;Тургенев;Толстой;else
+doc30;Эренбург;Толстой;else
+doc31;Некрасов;Чуковский;else
+doc31;Сергеев-Ценский;Чуковский;soviet writer
+doc31;Блок;Чуковский;else
+doc31;Андреев;Чуковский;else
+doc31;Скиталец;Чуковский;else
+doc32;Авербах;Шагинян;else
+doc32;Евдокимов;Шагинян;soviet writer
+doc32;Леонов;Шагинян;soviet writer
+doc32;Пильняк;Шагинян;soviet writer
+doc32;Рыкачев;Шагинян;soviet writer
+doc32;Слонимский;Шагинян;soviet writer
+doc32;Тихонов;Шагинян;soviet writer
+doc33;Зощенко;Никитин;soviet writer
+doc33;Каверин;Никитин;soviet writer
+doc33;Олеша;Никитин;soviet writer
+doc33;Иванов;Никитин;soviet writer
+doc33;Слонимский;Никитин;soviet writer
+doc34;Мандельштам;Пастернак;soviet writer
+doc34;Северянин;Пастернак;else
+doc35;Авербах;Воронский;else
+doc35;Безыменский;Воронский;soviet writer
+doc35;Ленин;Воронский;else
+doc35;Луначарский;Воронский;else
+doc35;Л. Толстой;Воронский;else
+doc35;Шекспир;Воронский;else
+doc36;Олеша;Митрофанов;soviet writer
+doc36;Панферов;Митрофанов;soviet writer
+doc36;Пильняк;Митрофанов;soviet writer
+doc36;Ставский;Митрофанов;soviet writer
+doc36;Фадеев;Митрофанов;soviet writer
+doc36;Федин;Митрофанов;soviet writer
+doc36;Толстой;Митрофанов;soviet writer
+doc37;Мопассан;Бабель;else
+doc4;Леонов;Мариенгоф;soviet writer
+doc4;Леонтьев;Мариенгоф;soviet writer
+doc4;Толстой;Мариенгоф;soviet writer
+doc4;Бурже;Мариенгоф;else
+doc5;Коган;Гладков;else
+doc5;Ленин;Гладков;else
+doc5;Роллан;Гладков;else
+doc6;Скотт;Тынянов;else
+doc6;Сологуб;Тынянов;else
+doc6;Л. Толстой;Тынянов;else
+doc6;Пушкин;Тынянов;else
+doc7;Гладков;Олеша;soviet writer
+doc7;Гофман;Олеша;else
+doc7;Либединский;Олеша;soviet writer
+doc7;Ляшко;Олеша;soviet writer
+doc7;Мариенгоф;Олеша;soviet writer
+doc7;Семенов;Олеша;soviet writer
+doc7;Фадеев;Олеша;soviet writer
+doc8;Воронский;Пильняк;soviet writer
+doc8;Горький;Пильняк;soviet writer
+doc8;Пушкин;Пильняк;else
+doc9;Гоголь;Зощенко;else
